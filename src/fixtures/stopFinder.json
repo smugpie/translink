@@ -5,390 +5,227 @@
   ],
   "locations": [
     {
-      "id": "suburbID:31400139:786:Seagoe:702722:144984:ITMR",
-      "name": "Seagoe",
-      "coord": [144984, 702722],
+      "id": "suburbID:31400112:588:Lisburn:726677:135717:ITMR",
+      "name": "Lisburn",
+      "coord": [54.51111, -6.04372],
       "type": "suburb",
-      "matchQuality": 30,
+      "matchQuality": 50,
       "isBest": false,
       "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
         "type": "locality"
       }
     },
     {
-      "id": "10010992",
-      "name": "Seagoe, Village Walk",
-      "disassembledName": "Village Walk",
-      "coord": [145828, 702539],
+      "id": "10008200",
+      "name": "Lisburn, Wallace Park",
+      "disassembledName": "Wallace Park",
+      "coord": [54.5148, -6.04407],
       "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010991",
-      "name": "Seagoe, Upper Church Road",
-      "disassembledName": "Upper Church Road",
-      "coord": [145189, 702710],
-      "type": "stop",
-      "matchQuality": 18,
-      "isBest": false,
-      "productClasses": [5],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010990",
-      "name": "Seagoe, Southern Regional College Portadown",
-      "disassembledName": "Southern Regional College Portadown",
-      "coord": [145069, 702343],
-      "type": "stop",
-      "matchQuality": 18,
+      "matchQuality": 616,
       "isBest": false,
       "productClasses": [5, 12],
       "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
         "type": "locality"
       }
     },
     {
-      "id": "10010988",
-      "name": "Seagoe, Seagoe Park",
-      "disassembledName": "Seagoe Park",
-      "coord": [144845, 702048],
+      "id": "10002354",
+      "name": "Ballynahinch, 23-31 Lisburn Street",
+      "disassembledName": "23-31 Lisburn Street",
+      "coord": [54.4064, -5.9036],
       "type": "stop",
-      "matchQuality": 598,
+      "matchQuality": 236,
       "isBest": false,
       "productClasses": [5],
       "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
+        "id": "placeID:31400024:114",
+        "name": "Ballynahinch",
         "type": "locality"
       }
     },
     {
-      "id": "10010987",
-      "name": "Seagoe, Seagoe Hotel",
-      "disassembledName": "Seagoe Hotel",
-      "coord": [144867, 702518],
+      "id": "10008188",
+      "name": "Lisburn, Market Square",
+      "disassembledName": "Market Square",
+      "coord": [54.51101, -6.04427],
       "type": "stop",
-      "matchQuality": 983,
+      "matchQuality": 806,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10002388",
+      "name": "Ballynahinch, Old Lisburn Road",
+      "disassembledName": "Old Lisburn Road",
+      "coord": [54.40134, -5.91001],
+      "type": "stop",
+      "matchQuality": 47,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400024:114",
+        "name": "Ballynahinch",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10002394",
+      "name": "Ballynahinch, Lisburn Street",
+      "disassembledName": "Lisburn Street",
+      "coord": [54.40295, -5.89797],
+      "type": "stop",
+      "matchQuality": 47,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400024:114",
+        "name": "Ballynahinch",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10013069",
+      "name": "Dunmurry, Lisburn Road",
+      "disassembledName": "Lisburn Road",
+      "coord": [54.55145, -6.0022],
+      "type": "stop",
+      "matchQuality": 47,
+      "isBest": false,
+      "productClasses": [12],
+      "parent": {
+        "id": "placeID:31400030:399",
+        "name": "Dunmurry",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10008184",
+      "name": "Lisburn, Linenhall Street",
+      "disassembledName": "Linenhall Street",
+      "coord": [54.50995, -6.04208],
+      "type": "stop",
+      "matchQuality": 521,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10007075",
+      "name": "Hillhall, Dobbies, Lisburn",
+      "disassembledName": "Dobbies, Lisburn",
+      "coord": [54.5045, -6.02711],
+      "type": "stop",
+      "matchQuality": 237,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400112:494",
+        "name": "Hillhall",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10008180",
+      "name": "Lisburn, Chapelhill",
+      "disassembledName": "Chapelhill",
+      "coord": [54.51066, -6.05045],
+      "type": "stop",
+      "matchQuality": 47,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10000570",
+      "name": "Lisburn, Lisburn Buscentre",
+      "disassembledName": "Lisburn Buscentre",
+      "coord": [54.50955, -6.04752],
+      "type": "stop",
+      "matchQuality": 902,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10007146",
+      "name": "Hillsborough, Lisburn Street",
+      "disassembledName": "Lisburn Street",
+      "coord": [54.46597, -6.08417],
+      "type": "stop",
+      "matchQuality": 47,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400089:496",
+        "name": "Hillsborough",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10000133",
+      "name": "Lisburn, Smithfield Street Bus Shelter",
+      "disassembledName": "Smithfield Street Bus Shelter",
+      "coord": [54.50968, -6.04716],
+      "type": "stop",
+      "matchQuality": 711,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "LB",
+      "isGlobalId": true,
+      "name": "Lisburn, Lisburn Train Station",
+      "disassembledName": "Lisburn Train Station",
+      "coord": [54.51393, -6.04543],
+      "type": "stop",
+      "matchQuality": 996,
       "isBest": true,
-      "productClasses": [5, 12],
+      "productClasses": [0],
       "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
+        "id": "placeID:31400112:588",
+        "name": "Lisburn",
         "type": "locality"
-      }
+      },
+      "properties": { "stopId": "10000038" }
     },
     {
-      "id": "10010986",
-      "name": "Seagoe, Seagoe Gardens",
-      "disassembledName": "Seagoe Gardens",
-      "coord": [145159, 701945],
+      "id": "10011329",
+      "name": "Sprucefield, Lisburn Golf Club",
+      "disassembledName": "Lisburn Golf Club",
+      "coord": [54.48773, -6.06838],
       "type": "stop",
-      "matchQuality": 28,
+      "matchQuality": 522,
       "isBest": false,
-      "productClasses": [5],
+      "productClasses": [12],
       "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010985",
-      "name": "Seagoe, Seagoe Primary School",
-      "disassembledName": "Seagoe Primary School",
-      "coord": [144682, 702184],
-      "type": "stop",
-      "matchQuality": 697,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010984",
-      "name": "Seagoe, Nurses Home",
-      "disassembledName": "Nurses Home",
-      "coord": [144710, 702748],
-      "type": "stop",
-      "matchQuality": 19,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010981",
-      "name": "Seagoe, Lurgan Road",
-      "disassembledName": "Lurgan Road",
-      "coord": [145234, 702027],
-      "type": "stop",
-      "matchQuality": 14,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010980",
-      "name": "Seagoe, Killicomaine School",
-      "disassembledName": "Killicomaine School",
-      "coord": [145131, 702679],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010979",
-      "name": "Seagoe, Killicomaine Road",
-      "disassembledName": "Killicomaine Road",
-      "coord": [145653, 702526],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010978",
-      "name": "Seagoe, Kernan Stores",
-      "disassembledName": "Kernan Stores",
-      "coord": [144526, 703007],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010977",
-      "name": "Seagoe, Kernan Stores",
-      "disassembledName": "Kernan Stores",
-      "coord": [144532, 703029],
-      "type": "stop",
-      "matchQuality": 783,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010976",
-      "name": "Seagoe, Kernan Avenue",
-      "disassembledName": "Kernan Avenue",
-      "coord": [144420, 702601],
-      "type": "stop",
-      "matchQuality": 19,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010975",
-      "name": "Seagoe, Granville Road",
-      "disassembledName": "Granville Road",
-      "coord": [145835, 702538],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010974",
-      "name": "Seagoe, Craigavon Senior High School",
-      "disassembledName": "Craigavon Senior High School",
-      "coord": [145219, 702250],
-      "type": "stop",
-      "matchQuality": 27,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010973",
-      "name": "Seagoe, Craigavon Area Hospital",
-      "disassembledName": "Craigavon Area Hospital",
-      "coord": [144830, 703040],
-      "type": "stop",
-      "matchQuality": 883,
-      "isBest": false,
-      "productClasses": [5],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010972",
-      "name": "Seagoe, Cemetery",
-      "disassembledName": "Cemetery",
-      "coord": [144667, 702186],
-      "type": "stop",
-      "matchQuality": 24,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10012298",
-      "name": "Monkstown, Seagoe Gardens",
-      "disassembledName": "Seagoe Gardens",
-      "coord": [116028, 734966],
-      "type": "stop",
-      "matchQuality": 28,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400131:676",
-        "name": "Monkstown",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10004659",
-      "name": "Seagoe, Diviny Drive",
-      "disassembledName": "Diviny Drive",
-      "coord": [143331, 702891],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10004662",
-      "name": "Seagoe, Seagoe Ceramics",
-      "disassembledName": "Seagoe Ceramics",
-      "coord": [142720, 703095],
-      "type": "stop",
-      "matchQuality": 28,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010967",
-      "name": "Seagoe, Holmes' Corner",
-      "disassembledName": "Holmes' Corner",
-      "coord": [145430, 702772],
-      "type": "stop",
-      "matchQuality": 19,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010968",
-      "name": "Seagoe, Portadown College",
-      "disassembledName": "Portadown College",
-      "coord": [145822, 702220],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010970",
-      "name": "Seagoe, 61-69 Killycomain Road",
-      "disassembledName": "61-69 Killycomain Road",
-      "coord": [145788, 702366],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5, 12],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
-        "type": "locality"
-      }
-    },
-    {
-      "id": "10010971",
-      "name": "Seagoe, Carn Drive",
-      "disassembledName": "Carn Drive",
-      "coord": [143395, 702593],
-      "type": "stop",
-      "matchQuality": 23,
-      "isBest": false,
-      "productClasses": [5],
-      "parent": {
-        "id": "placeID:31400139:786",
-        "name": "Seagoe",
+        "id": "placeID:31400112:816",
+        "name": "Sprucefield",
         "type": "locality"
       }
     }

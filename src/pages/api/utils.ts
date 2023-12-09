@@ -1,6 +1,6 @@
 import { API_URL } from './constants';
 
-const fetchData = function(requestType: string, params: URLSearchParams) {
+const fetchData = function (requestType: string, params: URLSearchParams) {
     console.log(params.toString())
     console.log(`${API_URL}${requestType}?${params.toString()}`)
     return fetch(
@@ -9,7 +9,7 @@ const fetchData = function(requestType: string, params: URLSearchParams) {
             'X-API-TOKEN': import.meta.env.API_KEY
         }
     }
-  )    
-} 
+    )
+}
 
 export { fetchData }
