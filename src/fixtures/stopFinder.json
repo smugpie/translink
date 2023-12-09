@@ -1,0 +1,396 @@
+{
+  "version": "10.5.17.3",
+  "systemMessages": [
+    { "type": "error", "module": "BROKER", "code": -8011, "text": "" }
+  ],
+  "locations": [
+    {
+      "id": "suburbID:31400139:786:Seagoe:702722:144984:ITMR",
+      "name": "Seagoe",
+      "coord": [144984, 702722],
+      "type": "suburb",
+      "matchQuality": 30,
+      "isBest": false,
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010992",
+      "name": "Seagoe, Village Walk",
+      "disassembledName": "Village Walk",
+      "coord": [145828, 702539],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010991",
+      "name": "Seagoe, Upper Church Road",
+      "disassembledName": "Upper Church Road",
+      "coord": [145189, 702710],
+      "type": "stop",
+      "matchQuality": 18,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010990",
+      "name": "Seagoe, Southern Regional College Portadown",
+      "disassembledName": "Southern Regional College Portadown",
+      "coord": [145069, 702343],
+      "type": "stop",
+      "matchQuality": 18,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010988",
+      "name": "Seagoe, Seagoe Park",
+      "disassembledName": "Seagoe Park",
+      "coord": [144845, 702048],
+      "type": "stop",
+      "matchQuality": 598,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010987",
+      "name": "Seagoe, Seagoe Hotel",
+      "disassembledName": "Seagoe Hotel",
+      "coord": [144867, 702518],
+      "type": "stop",
+      "matchQuality": 983,
+      "isBest": true,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010986",
+      "name": "Seagoe, Seagoe Gardens",
+      "disassembledName": "Seagoe Gardens",
+      "coord": [145159, 701945],
+      "type": "stop",
+      "matchQuality": 28,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010985",
+      "name": "Seagoe, Seagoe Primary School",
+      "disassembledName": "Seagoe Primary School",
+      "coord": [144682, 702184],
+      "type": "stop",
+      "matchQuality": 697,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010984",
+      "name": "Seagoe, Nurses Home",
+      "disassembledName": "Nurses Home",
+      "coord": [144710, 702748],
+      "type": "stop",
+      "matchQuality": 19,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010981",
+      "name": "Seagoe, Lurgan Road",
+      "disassembledName": "Lurgan Road",
+      "coord": [145234, 702027],
+      "type": "stop",
+      "matchQuality": 14,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010980",
+      "name": "Seagoe, Killicomaine School",
+      "disassembledName": "Killicomaine School",
+      "coord": [145131, 702679],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010979",
+      "name": "Seagoe, Killicomaine Road",
+      "disassembledName": "Killicomaine Road",
+      "coord": [145653, 702526],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010978",
+      "name": "Seagoe, Kernan Stores",
+      "disassembledName": "Kernan Stores",
+      "coord": [144526, 703007],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010977",
+      "name": "Seagoe, Kernan Stores",
+      "disassembledName": "Kernan Stores",
+      "coord": [144532, 703029],
+      "type": "stop",
+      "matchQuality": 783,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010976",
+      "name": "Seagoe, Kernan Avenue",
+      "disassembledName": "Kernan Avenue",
+      "coord": [144420, 702601],
+      "type": "stop",
+      "matchQuality": 19,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010975",
+      "name": "Seagoe, Granville Road",
+      "disassembledName": "Granville Road",
+      "coord": [145835, 702538],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010974",
+      "name": "Seagoe, Craigavon Senior High School",
+      "disassembledName": "Craigavon Senior High School",
+      "coord": [145219, 702250],
+      "type": "stop",
+      "matchQuality": 27,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010973",
+      "name": "Seagoe, Craigavon Area Hospital",
+      "disassembledName": "Craigavon Area Hospital",
+      "coord": [144830, 703040],
+      "type": "stop",
+      "matchQuality": 883,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010972",
+      "name": "Seagoe, Cemetery",
+      "disassembledName": "Cemetery",
+      "coord": [144667, 702186],
+      "type": "stop",
+      "matchQuality": 24,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10012298",
+      "name": "Monkstown, Seagoe Gardens",
+      "disassembledName": "Seagoe Gardens",
+      "coord": [116028, 734966],
+      "type": "stop",
+      "matchQuality": 28,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400131:676",
+        "name": "Monkstown",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10004659",
+      "name": "Seagoe, Diviny Drive",
+      "disassembledName": "Diviny Drive",
+      "coord": [143331, 702891],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10004662",
+      "name": "Seagoe, Seagoe Ceramics",
+      "disassembledName": "Seagoe Ceramics",
+      "coord": [142720, 703095],
+      "type": "stop",
+      "matchQuality": 28,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010967",
+      "name": "Seagoe, Holmes' Corner",
+      "disassembledName": "Holmes' Corner",
+      "coord": [145430, 702772],
+      "type": "stop",
+      "matchQuality": 19,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010968",
+      "name": "Seagoe, Portadown College",
+      "disassembledName": "Portadown College",
+      "coord": [145822, 702220],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010970",
+      "name": "Seagoe, 61-69 Killycomain Road",
+      "disassembledName": "61-69 Killycomain Road",
+      "coord": [145788, 702366],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5, 12],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    },
+    {
+      "id": "10010971",
+      "name": "Seagoe, Carn Drive",
+      "disassembledName": "Carn Drive",
+      "coord": [143395, 702593],
+      "type": "stop",
+      "matchQuality": 23,
+      "isBest": false,
+      "productClasses": [5],
+      "parent": {
+        "id": "placeID:31400139:786",
+        "name": "Seagoe",
+        "type": "locality"
+      }
+    }
+  ]
+}
